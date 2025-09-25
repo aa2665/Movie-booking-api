@@ -27,4 +27,3 @@ This project was created as part of an assignment to design a backend API for mo
 
 ---
 
-## 📂 Project Structure
